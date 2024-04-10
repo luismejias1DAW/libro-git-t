@@ -1,0 +1,4 @@
+El flujo de trabajo básico en git consiste[D[D[D[D[D[D[D[D[D[D[G[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D[D[Dcon on[C[C[DG[D[D[C[Ci[2~t        [D[D[D[D[D[D[D[D[D[D[[C[C[C[C[C[C[C[D[D[D[D[C consiste en:
+1- Hacer cambios en el repositorio.
+2- Añadir los cambios a la zona de intercambio temporal.
+3- Hacer un commit de los cambios.
